@@ -1,0 +1,41 @@
+extraSprites:
+  - type: Portraits_m0
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/m0/port_m0.png
+  - type: Portraits_m1
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/m1/port_m1.png
+  - type: Portraits_m2
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/m2/port_m2.png
+  - type: Portraits_m3
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/m3/port_m3.png
+  - type: Portraits_f0
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/f0/port_f0.png
+  - type: Portraits_f1
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/f1/port_f1.png
+  - type: Portraits_f2
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/f2/port_f2.png
+  - type: Portraits_f3
+    width: 26
+    height: 23
+    files:
+      0: Resources/Portraits/f3/port_f3.png
