@@ -1,0 +1,44 @@
+extraStrings:
+  - type: en-US
+    strings:
+#GENERAL
+#-----Abbreviated Rank Strings
+      # STR_ROOKIE_SHORT: REC.
+      # STR_SQUADDIE_SHORT: SQD.
+      # STR_SERGEANT_SHORT: SGT.
+      # STR_CAPTAIN_SHORT: CPT.
+      # STR_COLONEL_SHORT: COL.
+      # STR_COMMANDER_SHORT: COM.
+      STR_ROOKIE: Recruit
+      STR_SQUADDIE: Squaddie
+      STR_SERGEANT: Sergeant
+      STR_CAPTAIN: Captain
+      STR_COLONEL: Colonel
+      STR_COMMANDER: Commander
+      STR_ROOKIE_SHORT: ROK.
+      STR_SQUADDIE_SHORT: SQD.
+      STR_SERGEANT_SHORT: SGT.
+      STR_CAPTAIN_SHORT: CPT.
+      STR_COLONEL_SHORT: COL.
+      STR_COMMANDER_SHORT: COM.
+
+# R-0
+# X-1
+# S-2
+# C-3
+# CO-4
+# CO-5
+
+# REC
+# OPR
+# SGT
+# CPT
+# COL
+# COM
+
+# PVT
+# CPL
+# SGT
+# CPT
+# COL
+# COM
